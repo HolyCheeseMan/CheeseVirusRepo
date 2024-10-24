@@ -13,3 +13,5 @@
 ![image](https://github.com/user-attachments/assets/84e4808d-accd-40f9-af58-b805fdf6fdb5)
 
 ![image](https://github.com/user-attachments/assets/1ea640f3-eda6-4eec-9681-6900e8652a1f)
+
+This file and all other files included in CheeseVirusRepo follow our license provided.
