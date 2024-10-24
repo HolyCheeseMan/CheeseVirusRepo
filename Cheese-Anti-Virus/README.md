@@ -12,3 +12,5 @@ does the "anti-virus" actually delete system32. no, it simply changes changes yo
 What the plugin maker does: nothing pranky, just changes the script.
 
 Thanks for reading!
+
+This file and all other files included in CheeseVirusRepo follow our license provided.
