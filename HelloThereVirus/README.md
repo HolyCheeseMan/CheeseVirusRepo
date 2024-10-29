@@ -1,5 +1,7 @@
 # What is HelloThere Virus?
 
+**This repository is entirely for the intent of education and malware knowledge to protect from real threats.**
+
 The Hello There Virus is a virus that opens a GUI that is constantly on top of your screen which you can't close or minimize. 
 If You try to close `HelloThere.exe` on **Task Manager** it will re-open itself because of the two back-up files which are 
 spread across the computer and are running in the background. One of these files (`AdobeUpdaterStartupUtility.exe`) which  
