@@ -1,5 +1,7 @@
 # CheeseVirusRepo
 
+**This repository is entirely for the intent of education and malware knowledge to protect from real threats.**
+
 Big repository of malware :)
 run at your own risk.
 
