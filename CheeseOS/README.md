@@ -1,3 +1,5 @@
+**This repository is entirely for the intent of education and malware knowledge to protect from real threats.**
+
 # How to set up:
 - **1** - Install CheeseVirusRepo as a `.zip` file like this:
 ![image](https://github.com/user-attachments/assets/5c8bcc29-e848-4bdd-bd9c-c9a29e0b462b)
