@@ -1,5 +1,7 @@
 # Cheese Anti-Virus is a TROLL/FAKE anti-virus!
 
+**This repository is entirely for the intent of education and malware knowledge to protect from real threats.**
+
 Let the text above be a warning as to it does NOT scan viruses and clear them.
 
 Run on a **VIRTUAL MACHINE** like **Windows Sandbox, VMware**
